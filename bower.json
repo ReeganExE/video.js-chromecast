@@ -4,7 +4,8 @@
   "author": "benjipott",
   "license": "Apache-2.0",
   "main": [
-    "dist/videojs-chromecast.min.js"
+    "dist/videojs-chromecast.min.js",
+    "dist/videojs-chromecast.css"
   ],
   "keywords": [
     "chromecast",
